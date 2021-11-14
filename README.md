@@ -1,4 +1,4 @@
-Chatbot answering basic user queries in bank
+Chatbot answering basic user queries
 
 Tech stack - Python,Pandas,NLTK
 
